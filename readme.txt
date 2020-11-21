@@ -1,6 +1,5 @@
-// Fill out below 
-A: Partner A's Name 
-B: Partner B's Name
+A: Partner A's Name (fill in here) 
+B: Partner B's Name (fill in here)
 
 Both directory A/ and B/ must contain executable files named client and server, as well as any other files required to run your code.
 
